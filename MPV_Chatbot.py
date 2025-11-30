@@ -78,7 +78,7 @@ def chat_with_friend(message, history):
 with gr.Blocks() as demo:
     gr.Markdown(
         """
-        # 💚 HeartTalk – AI Supportive Friend (Gemini Powered)
+        # AI Supportive Friend (Gemini Powered)
 
         Talk to HeartTalk like you would talk to a close friend.
         It listens, reflects your feelings, and gently suggests ways to cope.
@@ -90,7 +90,7 @@ with gr.Blocks() as demo:
 
     chat = gr.ChatInterface(
         fn = chat_with_friend,
-        title = "HeartTalk",
+        title = "Share Your Heart Out",
         chatbot = gr.Chatbot(height=400),
         textbox=gr.Textbox(
             placeholder="Type what's on your heart and press Enter...",

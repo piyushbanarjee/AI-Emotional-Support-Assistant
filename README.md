@@ -1,6 +1,6 @@
 # AI-Based-mental-wellbeing-chatbot
 
-💚 HeartTalk – AI Supportive Friend (Gemini Powered)
+AI Supportive Friend (Gemini Powered)
 
 HeartTalk is an AI-powered web application that acts as a **supportive virtual friend**. Users can share what is on their mind, and the system responds with empathy, validation, and gentle coping suggestions using the **Google Gemini 2.0 Flash** model.
 
